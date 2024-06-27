@@ -12,4 +12,5 @@ My call sing is **SP5MSR** QTH: KO02 (Warsaw)
 
 ## Docs
 
-- [BandPlan PL](./BandPlan_PL.md)
+- [Band Plan IARU Region 1](https://www.radioklucz.pl/bandplan/)
+- [Band Plan PL](./BandPlan_PL.md)
